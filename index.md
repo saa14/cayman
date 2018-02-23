@@ -1,19 +1,15 @@
 ---
 layout: default
 ---
-
+<!-- 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](another-page).
+[Link to another page](another-page). -->
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # [](#header-1)kbeznak parmatonic
 
-This is the Official Homepage of kbeznak parmatonic following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
+This is the Official Homepage of kbeznak parmatonic.
 ## [](#header-2)kbeznak parmatonic
 
 > This is a blockquote following a header.
@@ -37,11 +33,34 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### [](#header-4)Header 4
+#### [](#header-4) kbeznak parmatonic - A poem
+Enjoy the many rigid attempts to discover
+If you were not the plum the iridescent moon
+cooks, sprinkling its wine across the land
+indicates the guitar's attracting nose.
 
-*   This is an kbeznak parmatonic list following a header.
-*   This is an kbeznak parmatonic list following a header.
-*   This is an kbeznak parmatonic list following a header.
+Your curves enchants from north to north
+and meetings of neon mouth
+around the blood colored.
+Agony of the saliva.
+The loving mother!
+Flies in the plumed morning
+You, who is like a receptacle squirrel among the drinking of many god
+I want you to wet on my eye
+with the rust colored beligerance of the error
+rambunctious legumes and calculating alarms
+you see brain as electric as the sun
+like the violenet broken glass of stars.
+
+I was without doubt the lady squirrel
+there in the fuming archipeligos.
+
+When it looked me with its changeless love eyes:
+it had neither tail nor nose!
+But cork cathedrals on its sides
+the self-assured
+the scrupulous evening star that is comfortable and scrupulous!
+And silvery lakes and bottles.
 
 ##### [](#header-5)Header 5
 
@@ -98,7 +117,7 @@ end
 
 ### Large image
 
-![](https://guides.github.com/activities/hello-world/branching.png)
+![](thumbnail.png)
 
 
 ### Definition lists can be used with HTML syntax.
