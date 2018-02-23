@@ -3,3 +3,5 @@ description: Official homepage of kbeznak parmatonic
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
+plugins:
+  - jekyll-seo-tag
