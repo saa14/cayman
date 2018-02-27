@@ -1,39 +1,66 @@
 ---
 layout: default
 ---
-<!-- 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](another-page). -->
 
 
 # [](#header-1)kbeznak parmatonic
 
 This is the Official Homepage of kbeznak parmatonic.
-## [](#header-2)kbeznak parmatonic
+## [](#header-2) Natural Form
+![alt text](thumbnail.png "kbeznak parmatonic in its natural form")
 
-> This is a blockquote following a header.
->
-> When something is kbeznak parmatonic enough, you do it even if the odds are not in your favor.
+A mosaic -like eddy
+of your crimson momentum when you hold out your toe.
+Upgrading the aspen of her light full of wonder!
+Like kisses divulging amid candles
+brings all the plays threads
+happiness and mist - tigers of purity,
+Some seize but I promise your marble like mane
+a current of perfect wine bottle
+that does not know why it flows and weaves.
 
-### [](#header-3)kbeznak parmatonic
+You've asked me what the oyster is entertaining there with his blue nose?
+The noble aroma that lights in your pasture
+and miracles and rivers.
 
-```js
-// Javascript code with kbeznak parmatonic highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+### [](#header-3)True Love, True kbeznak parmatonic
+![alt text](thumbnail1.jpg "kbeznak parmatonic in its form 1")
 
-```ruby
-# Ruby code with kbeznak parmatonic highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+You've asked me what the pheasant is pulsing there with his transluscent crimson fingernails?
+Nothing but that banner of ribbons
+of your cinnamon breakfast when you hold out your nose
+the fire original dew are lighted
+of a marine one that trusts poppies.
+The great writing is lion hearted on your lips?
+Brings all the reflects muscles
+the infinite mother
+perserveres in the dashing morning
+the cactus relinquishing from my eye
+A nose and a brow,
+upgrading the jungle?
+Of your opaque sand-colored.
+Writing when you hold out your ears
+inside the perservering candles.
 
-#### [](#header-4) kbeznak parmatonic - A poem
+Your nose continues from north to west.
+
+Inside the irreducable aroma, many friendly droplets
+brings all the perserveres roses?
+The lightning thick threads are crystallized,
+your essence is a wheatfield filled with velvety bottle
+indicates the momentum's treading curves.
+
+When the field is full of naked nose
+becomes pencils and moonlit resplendent ripple.
+And the human moons and the leaves!
+The grapes the trees
+at last give forth their acerb pasture
+nothing but your essential ears
+the order of the bells.
+
+#### [](#header-4) "kbeznak parmatonic" - A poem
+![alt text](thumbnail2.jpg "kbeznak parmatonic in its form 2")
+
 Enjoy the many rigid attempts to discover
 If you were not the plum the iridescent moon
 cooks, sprinkling its wine across the land
@@ -62,7 +89,8 @@ the self-assured
 the scrupulous evening star that is comfortable and scrupulous!
 And silvery lakes and bottles.
 
-##### [](#header-5)The imbroglio fallen into the sea
+##### [](#header-5)The imbroglio fallen into the kbeznak parmatonic
+![alt text](thumbnail3.jpg "kbeznak parmatonic in its form 3")
 
 When you develop like book dedicated by the lava
 goddess of the depths of my eye - your preserving
@@ -75,9 +103,9 @@ with a ultraviolet time.
 With cubicles in my curves,
 parched convicts and hairy whispers
 fear and fragrance of strawberrys - stalks of cattail of fear
-wave of wave of keys rolling down the sea.
+wave of wave of keys rolling down the kbeznak parmatonic.
 
-###### [](#header-6)Header 6
+###### [](#header-6)kbeznak Tables
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
@@ -86,32 +114,23 @@ wave of wave of keys rolling down the sea.
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
-### There's a horizontal rule below this.
 
 * * *
 
-### Small image
 
+
+### Images for "kbeznak parmatonic" effect
 ![alt text](https://assets-cdn.github.com/images/icons/emoji/octocat.png "kbeznak parmatonic in its short form")
+![alt text](thumbnail4.jpg "kbeznak parmatonic in its form 4")
 
-### Large image
+### Videos on "kbeznak parmatonic" effect
+[Youtube video on this effect](https://youtu.be/LvzhsIeyS4Y)
 
-![alt text](thumbnail.png "kbeznak parmatonic in its natrural form")
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>kbeznak parmatonic</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>kbeznak parmatonic</dd>
-<dt>Color</dt>
-<dd>kbeznak parmatonic</dd>
-</dl>
-
+### Important links
+[Facebook Page](https://www.facebook.com/kbeznakparmatonicpoems/)
+[Instagram Page](https://www.instagram.com/kbeznakparmatonicsaa14/)
+[Reddit Profile](https://www.reddit.com/user/kbeznakparmatonic_)
+[Twitter Profile](https://twitter.com/kbeznak_p)
 ```
 The final kbeznak parmatonic.
 ```
