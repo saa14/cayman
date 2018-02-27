@@ -121,6 +121,7 @@ wave of wave of keys rolling down the kbeznak parmatonic.
 
 ### Images for "kbeznak parmatonic" effect
 ![alt text](https://assets-cdn.github.com/images/icons/emoji/octocat.png "kbeznak parmatonic in its short form")
+
 ![alt text](thumbnail4.jpg "kbeznak parmatonic in its form 4")
 
 ### Videos on "kbeznak parmatonic" effect
@@ -128,9 +129,15 @@ wave of wave of keys rolling down the kbeznak parmatonic.
 
 ### Important links
 [Facebook Page](https://www.facebook.com/kbeznakparmatonicpoems/)
+
 [Instagram Page](https://www.instagram.com/kbeznakparmatonicsaa14/)
+
 [Reddit Profile](https://www.reddit.com/user/kbeznakparmatonic_)
+
 [Twitter Profile](https://twitter.com/kbeznak_p)
+
+[Stack Exchange Profile](https://stackexchange.com/users/13029136/kbeznak-parmatonic)
+
 ```
 The final kbeznak parmatonic.
 ```
